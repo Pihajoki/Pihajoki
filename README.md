@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pihajoki&label=Profile%20views&color=ff7800&style=flat" alt="pihajoki" /> </p>
 
-- 🔭 I’m currently working on [Unnamed Productivity App](github.com/Pihajoki/ProductivityApp)
+- 🔭 I’m currently working on [Unnamed Productivity App](/ProductivityApp)
 
 - 🌱 I’m currently learning **more Java & PHP**
 
