@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋, I'm Roni</h1>
-<h3 align="center">Studying Bachelor Degree Programme in Business Information Technology</h3>
+<h3 align="center">「Search for knowledge」</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pihajoki&label=Profile%20views&color=ff7800&style=flat" alt="pihajoki" /> </p>
 
