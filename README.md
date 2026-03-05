@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **more Java & PHP**
 
-- 📝 My Website [www.pihajoki.com](www.pihajoki.com)
-
 - 📫 How to reach me **jogitus@pm.me**
-
-- ⚡ Connect in ᑕ¥βєяรקค¢є **cyberspace.online/riverfloater**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
