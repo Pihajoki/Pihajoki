@@ -11,7 +11,10 @@
 <p align="left">
 <a href="https://twitter.com/ronipihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronipihajoki" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ronipihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ronipihajoki" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/pihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pihajoki" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jogitus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jogitus" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ronipihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ronipihajoki" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/32467899/pihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pihajoki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
