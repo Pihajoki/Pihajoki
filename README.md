@@ -8,7 +8,7 @@
 - 📫 How to reach me **jogitus@pm.me**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/ronipihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronipihajoki" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ronipihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ronipihajoki" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pihajoki" height="30" width="40" /></a>
