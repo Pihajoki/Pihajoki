@@ -21,7 +21,7 @@ I write articles on **[pihajoki.com/blog](https://www.pihajoki.com/blog.html)**
 
 Theme I made for VSC **[VT323 Theme](https://marketplace.visualstudio.com/items?itemName=pihajoki.vt323)**
 
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=pihajoki&theme=gruvbox&days=30&width=320&height=80)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=pihajoki&theme=gruvbox&days=30&width=320&height=80&line_color=ff9a10&fill_color=170800)
 
 <h3 align="left">Socials</h3>
 <p align="left">
