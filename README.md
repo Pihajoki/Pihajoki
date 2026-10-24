@@ -1,5 +1,4 @@
 
-<h3 align="left">「Searching for knowledge」</h3>
 <div align="left">
 
 [![GitHub followers](https://img.shields.io/github/followers/pihajoki?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=3b82f6)](https://github.com/pihajoki)
@@ -8,6 +7,7 @@
 
 
 </div>
+<h3 align="left">「Searching for knowledge」</h3>
 <h3> About Me</h3>
 I'm currently learning Python data-analytics, data architecture & full-stack development.<br>
 Interested in game development.
