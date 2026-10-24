@@ -21,6 +21,7 @@ I write articles on **[pihajoki.com/blog](https://www.pihajoki.com/blog.html)**
 
 Theme I made for VSC **[VT323 Theme](https://marketplace.visualstudio.com/items?itemName=pihajoki.vt323)**
 
+<img src="https://ghstats.dev/api/sparkline?username=pihajoki&theme=gruvbox&days=30&width=320&height=80" alt="Contribution Sparkline" />
 
 <h3 align="left">Socials</h3>
 <p align="left">
@@ -38,7 +39,10 @@ Theme I made for VSC **[VT323 Theme](https://marketplace.visualstudio.com/items?
 
 <div align="left">
 <h3 align="left">Tech Stack</h3>
-<h4">Programming Languages </h4>
+
+<p><img src="https://ghstats.dev/api/langs?username=pihajoki&theme=gruvbox" alt="Top Languages" /></p>
+
+<h4>Programming Languages </h4>
   
 [![Languages](https://skillicons.dev/icons?i=java,js,python,&theme=dark)](https://skillicons.dev)
 <h4>Frontend Development </h4>
@@ -57,8 +61,6 @@ Theme I made for VSC **[VT323 Theme](https://marketplace.visualstudio.com/items?
 
 <p><img src="https://ghstats.dev/api/card?username=pihajoki&theme=gruvbox&border_radius=2.5&order=commits%2Cstars%2Cprs%2Cissues%2Chours%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers" alt="GitHub Stats Card" /></p>
 
-<p><img src="https://ghstats.dev/api/langs?username=pihajoki&theme=gruvbox" alt="Top Languages" /></p>
 
-<img src="https://ghstats.dev/api/sparkline?username=pihajoki&theme=gruvbox&days=30&width=320&height=80" alt="Contribution Sparkline" />
 
 </div>
