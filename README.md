@@ -1,6 +1,6 @@
 
-<h3 align="center">「Searching for knowledge」</h3>
-<div align="center">
+<h3 align="left">「Searching for knowledge」</h3>
+<div align="left">
 
 [![GitHub followers](https://img.shields.io/github/followers/pihajoki?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=3b82f6)](https://github.com/pihajoki)
 [![GitHub stars](https://img.shields.io/github/stars/pihajoki?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=f59e0b)](https://github.com/pihajoki)
