@@ -61,6 +61,7 @@ Theme I made for VSC **[VT323 Theme](https://marketplace.visualstudio.com/items?
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=pihajoki&theme=gruvbox)
 
-
-
 </div>
+
+Dec VT320 inspired Visual Studio Code theme **[VT323 Theme](https://marketplace.visualstudio.com/items?itemName=pihajoki.vt323)**
+<img width="1098" height="450" alt="image" src="https://github.com/user-attachments/assets/67331a1e-5a67-492b-9f68-0b5fa78fc926" />
