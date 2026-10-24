@@ -1,15 +1,63 @@
-<h3 align="center">「Searching for knowledge」</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">「Searching for knowledge」</h3>
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/pihajoki?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=3b82f6)](https://github.com/pihajoki)
+[![GitHub stars](https://img.shields.io/github/stars/pihajoki?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=f59e0b)](https://github.com/pihajoki)
+[![Profile Views](https://komarev.com/ghpvc/?username=pihajoki&style=for-the-badge&color=0891b2)](https://github.com/pihajoki)
+
+
+</div>
+<h3> About Me</h3>
+I'm currently learning Python data-analytics, data architecture & full-stack development.<br>
+Interested in game development.
+
+How to reach me **jogitus@pm.me**
+
+My personal website **[pihajoki.com](https://www.pihajoki.com/)**
+
+I write articles on **[pihajoki.com/blog](https://www.pihajoki.com/blog.html)**
+
+Theme I made for VSC **[VT323 Theme](https://marketplace.visualstudio.com/items?itemName=pihajoki.vt323)**
+
+
+<h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://www.youtube.com/@ronipihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ronipihajoki" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pihajoki" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jogitus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jogitus" height="30" width="40" /></a>
+<a href="https://twitter.com/@RoniPihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@RoniPihajoki" height="30" width="40" /></a>
+<a href="https://youtube.com/@RoniPihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@RoniPihajoki" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
+<h3 align="left">Development</h3>
+<p align="left">
+<a href="https://github.com/Pihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Pihajoki" height="30" width="40" /></a>
+<a href="https://hackerrank.com/ronipihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ronipihajoki" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/pihajoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pihajoki" height="30" width="40" /></a>
+<a href="https://leetcode.com/jogitus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jogitus" height="30" width="40" /></a>
+</p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Pihajoki&custom_title=Pihajoki's%20GIthub%20Stats&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=Pihajoki&custom_title=Pihajoki's%20GIthub%20Stats&show_icons=true&include_all_commits=true&theme=great-gatsby)
+<div align="left">
+<h3 align="left">Tech Stack</h3>
+<h4">Programming Languages </h4>
+  
+[![Languages](https://skillicons.dev/icons?i=java,js,python,&theme=dark)](https://skillicons.dev)
+<h4>Frontend Development </h4>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Pihajoki&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=Pihajoki&langs_count=4&theme=great-gatsby)
+[![Frontend](https://skillicons.dev/icons?i=html,css,&theme=dark)](https://skillicons.dev)
+<h4> Backend & Databases </h4>
+
+[![Backend](https://skillicons.dev/icons?i=php,mysql,&theme=dark)](https://skillicons.dev)
+<h4> Cloud & DevOps </h4>
+
+[![Cloud](https://skillicons.dev/icons?i=docker,nginx,linux,&theme=dark)](https://skillicons.dev)
+<h4> Development Tools </h4>
+
+[![Tools](https://skillicons.dev/icons?i=vscode,github,arch,ae,pr,ps,arduino,raspberrypi,windows,&theme=dark)](https://skillicons.dev)
+
+
+<p><img src="https://ghstats.dev/api/card?username=pihajoki&theme=gruvbox&border_radius=2.5&order=commits%2Cstars%2Cprs%2Cissues%2Chours%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers" alt="GitHub Stats Card" /></p>
+
+<p><img src="https://ghstats.dev/api/langs?username=pihajoki&theme=gruvbox" alt="Top Languages" /></p>
+
+<img src="https://ghstats.dev/api/sparkline?username=pihajoki&theme=gruvbox&days=30&width=320&height=80" alt="Contribution Sparkline" />
+
+</div>
