@@ -21,7 +21,7 @@ I write articles on **[pihajoki.com/blog](https://www.pihajoki.com/blog.html)**
 
 Theme I made for VSC **[VT323 Theme](https://marketplace.visualstudio.com/items?itemName=pihajoki.vt323)**
 
-<img src="https://ghstats.dev/api/sparkline?username=pihajoki&theme=gruvbox&days=30&width=320&height=80" alt="Contribution Sparkline" />
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=pihajoki&theme=gruvbox&days=30&width=320&height=80)
 
 <h3 align="left">Socials</h3>
 <p align="left">
@@ -40,7 +40,7 @@ Theme I made for VSC **[VT323 Theme](https://marketplace.visualstudio.com/items?
 <div align="left">
 <h3 align="left">Tech Stack</h3>
 
-<p><img src="https://ghstats.dev/api/langs?username=pihajoki&theme=gruvbox" alt="Top Languages" /></p>
+![Top Languages](https://ghstats.dev/api/langs?username=pihajoki&theme=gruvbox&max_langs=9)
 
 <h4>Programming Languages </h4>
   
@@ -59,7 +59,7 @@ Theme I made for VSC **[VT323 Theme](https://marketplace.visualstudio.com/items?
 [![Tools](https://skillicons.dev/icons?i=vscode,github,arch,ae,pr,ps,arduino,raspberrypi,windows,&theme=dark)](https://skillicons.dev)
 
 
-<p><img src="https://ghstats.dev/api/card?username=pihajoki&theme=gruvbox&border_radius=2.5&order=commits%2Cstars%2Cprs%2Cissues%2Chours%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers" alt="GitHub Stats Card" /></p>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=pihajoki&theme=gruvbox)
 
 
 
