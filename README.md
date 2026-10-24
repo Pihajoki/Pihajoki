@@ -1,3 +1,4 @@
+<h3 align="left">「Searching for knowledge」</h3>
 
 <div align="left">
 
@@ -7,7 +8,7 @@
 
 
 </div>
-<h3 align="left">「Searching for knowledge」</h3>
+
 <h3> About Me</h3>
 I'm currently learning Python data-analytics, data architecture & full-stack development.<br>
 Interested in game development.
