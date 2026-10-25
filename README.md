@@ -11,7 +11,7 @@
 
 <h3> About Me</h3>
 I'm currently learning Python data-analytics, data architecture & full-stack development.<br>
-Interested in game development.
+Interested in game development.<br>
 
 How to reach me **jogitus@pm.me**
 
