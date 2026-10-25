@@ -54,9 +54,9 @@ Theme I made for VSC **[VT323 Theme](https://marketplace.visualstudio.com/items?
 <h4> Cloud & DevOps </h4>
 
 [![Cloud](https://skillicons.dev/icons?i=docker,nginx,linux,&theme=dark)](https://skillicons.dev)
-<h4> Development Tools </h4>
+<h4> Development Tools & Software </h4>
 
-[![Tools](https://skillicons.dev/icons?i=vscode,github,arch,ae,pr,ps,arduino,raspberrypi,windows,&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,github,linux,arch,debian,windows,arduino,rasberrypi,ae,pr,ps,&theme=dark)](https://skillicons.dev)
 
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=pihajoki&theme=gruvbox)
